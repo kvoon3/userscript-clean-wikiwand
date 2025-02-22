@@ -1,0 +1,19 @@
+{
+  "name": "userscript-clean-wikiwand",
+  "version": "0.0.0",
+  "description": "Clean wikiwand annoying popups",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvoon3/userscript-clean-wikiwand.git"
+  },
+  "author": "kvoon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kvoon3/userscript-clean-wikiwand/issues"
+  },
+  "homepage": "https://github.com/kvoon3/userscript-clean-wikiwand#readme"
+}
